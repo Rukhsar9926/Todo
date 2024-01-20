@@ -32,7 +32,9 @@ const deleteList=(id)=>{
     })
     console.log(todoData,"todoData")
     setTodos(todoData)}
-
+//fghjk
+///fghjkl
+//fghjkl
  
   return (
     
